@@ -1,6 +1,6 @@
 Hello, I amMarcos Detrano :)
 
-Sobre mim!
+about me!
 
 💼 Working as a Sysadmin e Cloud!
 
