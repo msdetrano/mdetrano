@@ -1,4 +1,4 @@
-Hello, I amMarcos Detrano :)
+Hello, I am Marcos Detrano :)
 
 about me!
 
